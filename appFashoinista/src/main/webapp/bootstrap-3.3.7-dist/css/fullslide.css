@@ -1,0 +1,25 @@
+@CHARSET "ISO-8859-1";
+html,
+body{
+	height:200%;
+	
+}
+.carosel,
+.item,
+.active{
+	height:200%;
+}
+.carousel-inner{
+	height:200%;
+	
+}
+.fill{
+	width:200%;
+	height:200%;
+	background-position:center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+}
+}
